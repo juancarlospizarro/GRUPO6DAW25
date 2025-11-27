@@ -22,3 +22,5 @@ Integrante 3 -> Ricardo Tovar Fernández
 	- Una vez modificado el archivo citado anteriormente, he subido al GitHub los archivos siguientes: index.php, controller.php y config.php modificado
 
 	-Para terminar, he hecho un documento de texto para para indicar que hemos realizado durante esta práctica
+
+Enlace para la página web: https://grupo6daw2025.alwaysdata.net/GRUPO6DAW25/alimentos2020/web/index.php
