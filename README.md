@@ -1,6 +1,6 @@
 # GRUPO6DAW25
 
-# Práctica 3 – Programando y Desplegando en Grupo
+## Práctica 3 – Programando y Desplegando en Grupo
 **2º DAW – Despliegue de Aplicaciones Web**  
 **Grupo 6**
 
