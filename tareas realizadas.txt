@@ -1,0 +1,24 @@
+Integrante 1 -> Juan Carlos Pizarro Alonso
+	- Ha realizado la creación de repositorio en GitHub y por tanto añadir de colaboradores a integrante 2 	e integrante 3
+	
+	- Ha realizado la subida a GitHub de la carpeta de la vista es decir la carpeta de templates y también ha subido la carpeta de front-end 
+	
+	- Por último ha hecho un documento de texto donde ha explicado las valoraciones personales sobre la práctica de cada integrante 
+
+
+Integrante 2 -> Rocío Calero López
+	- Primero ha subido al GitHub el archivo de Model.php
+
+	- Ha realizado la creación de la base de datos en el hosting "alwaydata" y la ejecución de la tabla alimentos
+
+	- También ha realizado mediante los comandos SSH Y Git el despliegue en el hosting
+
+	- Por último, ha hecho un documento de texto diciendo todos los pasos a seguir para la instalación y despliegue del proyecto
+
+
+Integrante 3 -> Ricardo Tovar Fernández
+	- He hecho modificación en el config.php para poner los datos de conexión de la base de datos de hosting 
+
+	- Una vez modificado el archivo citado anteriormente, he subido al GitHub los archivos siguientes: index.php, controller.php y config.php modificado
+
+	-Para terminar, he hecho un documento de texto para para indicar que hemos realizado durante esta práctica
