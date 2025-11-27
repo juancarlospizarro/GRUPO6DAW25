@@ -1,0 +1,13 @@
+--- VALORACIONES GRUPO 6 DESPLIEGUE DE APLICACIONES WEB ---
+
+El proyecto consiste en el despliegue de un proyecto web en PHP usando AlwaysData como hosting compartido y Git y GitHub para el control de versiones.
+
+Integrantes:
+
+1- Juan Carlos Pizarro Alonso: He considerado crear el repositorio en GitHub con un archivo Readme.md ya incorporado para facilitar la descarga del repositorio a local de los integrantes utilizando el comando "git clone" en lugar del comando "git init" y sus sucesivos. Hemos decidido separar el trabajo en ramas individuales y luego fusionarlas en la rama main para una mejor organización.  
+
+
+2- Rocío de los Reyes Calero López: Le ha servido para mejorar en el uso de SSH y despliegue con git en un hosting compartido. Ha afianzado el manejo de la creación y gestión de una base de datos en un servidor compartido usando MySQL.
+
+
+3- Ricardo Tovar Fernández: No ha tenido complicaciones a la hora de configurar el archivo config.php. Le ha servido esta práctica para afianzar más los conceptos de git vistos en clase.
