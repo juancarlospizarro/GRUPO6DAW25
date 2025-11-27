@@ -1,0 +1,4 @@
+---Instalación---
+Durante el desarrollo del proyecto, lleve a cabo la instalación y configuración del entorno de trabajo utilizando Git y SSH. Primero clone el repositorio, configuró su identidad y cree una rama específica para desarrollar su funcionalidad. Tras completar sus cambios, realize los commits correspondientes, los subió al repositorio remoto y sincronizó su rama con la principal para evitar conflictos, creando posteriormente la solicitud de fusión (Pull Request) para su revisión.
+
+Para el despliegue en el servidor, establecí conexión mediante SSH, accedí al directorio del proyecto y actualizó el código ejecutando git pull. Luego instale dependencias, construí el proyecto y configure las variables de entorno necesarias. Finalmente, reinicie los servicios del sistema y verificó que el despliegue funcionaba correctamente.
